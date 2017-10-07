@@ -1,7 +1,7 @@
 # dss_team_project
 ## [House Price: Adcanced Regressin Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 + team lucky
-  + 권순호, 지성민, 김동형
+  + 권순호, 지성민, 김동현
 
 + Goal
 	* it is your job to predict the sales price for each house.
