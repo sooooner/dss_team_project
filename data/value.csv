@@ -1,0 +1,26 @@
+MSZoning,Street,Alley,LotShape,LandContour,Utilities,LotConfig,LandSlope,Neighborhood,Condition1,Condition2,BldgType,HouseStyle,RoofStyle,RoofMatl,Exterior1st,Exterior2nd,MasVnrType,ExterQual,ExterCond,Foundation,BsmtQual,BsmtCond,BsmtExposure,BsmtFinType1,BsmtFinType2,Heating,HeatingQC,CentralAir,Electrical,KitchenQual,Functional,FireplaceQu,GarageType,GarageFinish,GarageQual,GarageCond,PavedDrive,PoolQC,Fence,MiscFeature,SaleType,SaleCondition
+C (all),Grvl,Grvl,Reg,Lvl,AllPub,Inside,Gtl,Blmngtn,Artery,Feedr,1Fam,1Story,Flat,ClyTile,AsbShng,AsbShng,BrkCmn,Ex,Ex,BrkTil,Ex,Gd,Gd,GLQ,GLQ,Floor,Ex,N,SBrkr,Ex,Typ,Ex,2Types,Fin,Ex,Ex,Y,Ex,GdPrv,Gar2,WD,Normal
+FV,Pave,Pave,IR1,Bnk,,Corner,Mod,Blueste,Feedr,Norm,2fmCon,1.5Fin,Gable,CompShg,BrkComm,AsphShn,BrkFace,Gd,Gd,CBlock,Gd,TA,Av,ALQ,ALQ,GasA,Gd,Y,FuseA,Gd,Min1,Gd,Attchd,RFn,Gd,Gd,P,Gd,MnPrv,Othr,CWD,Abnorml
+RH,,,IR2,HLS,,CulDSac,Sev,BrDale,Norm,RRNn,Duplex,1.5Unf,Gambrel,Membran,BrkFace,Brk Cmn,None,TA,TA,PConc,TA,Fa,Mn,BLQ,BLQ,GasW,TA,,FuseF,TA,Min2,TA,Basment,Unf,TA,TA,N,Fa,GdWo,Shed,New,AdjLand
+RL,,,IR3,Low,,FR2,,BrkSide,RRNn,RRAn,TwnhsE,2Story,Hip,Roll,CBlock,BrkFace,Stone,Fa,Fa,Slab,Fa,Po,No,Rec,Rec,Grav,Fa,,FuseP,Fa,Mod,Fa,BuiltIn,,Fa,Fa,,,MnWw,TenC,COD,Alloca
+RM,,,,,,FR3,,ClearCr,RRAn,PosN,Twnhs,2.5Fin,Mansard,Tar&Grv,CemntBd,CBlock,,,,Stone,,,,LwQ,LwQ,OthW,Po,,,,Maj1,Po,CarPort,,Po,Po,,,,,Con,Family
+,,,,,,,,CollgCr,PosN,RRAe,,2.5Unf,Shed,WdShngl,HdBoard,CmentBd,,,,Wood,,,,Unf,Unf,Wall,,,,,Maj2,,Detchd,,,,,,,,ConLw,Partial
+,,,,,,,,Crawfor,PosA,,,SFoyer,,WdShake,ImStucc,HdBoard,,,,,,,,,,,,,,,Sev,,,,,,,,,,ConLI,
+,,,,,,,,Edwards,RRNe,,,SLvl,,,MetalSd,ImStucc,,,,,,,,,,,,,,,,,,,,,,,,,ConLD,
+,,,,,,,,Gilbert,RRAe,,,,,,Plywood,MetalSd,,,,,,,,,,,,,,,,,,,,,,,,,Oth,
+,,,,,,,,IDOTRR,,,,,,,Stone,Other,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,MeadowV,,,,,,,Stucco,Plywood,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Mitchel,,,,,,,VinylSd,Stone,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,NAmes,,,,,,,Wd Sdng,Stucco,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,NoRidge,,,,,,,WdShing,VinylSd,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,NPkVill,,,,,,,,Wd Sdng,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,NridgHt,,,,,,,,Wd Shng,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,NWAmes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,OldTown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,SWISU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Sawyer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,SawyerW,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Somerst,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,StoneBr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Timber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Veenker,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
